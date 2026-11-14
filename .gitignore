@@ -1,0 +1,7 @@
+node_modules
+.next
+.env
+database/pricepulse.db
+database/pricepulse.db-shm
+database/pricepulse.db-wal
+uploads
